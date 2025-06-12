@@ -1,4 +1,4 @@
-#!/usr/bin/python3.13
+#!/usr/bin/python3
 #In this exmaple we write function for multiplication and use decorators to power inputs:
 def pw(f):
     def power(n,o):
