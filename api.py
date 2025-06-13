@@ -30,7 +30,7 @@ class Ui_MainWindow(object):
         self.label.setFont(font)
         self.shaer = QLabel(self.centralwidget)
         self.shaer.setObjectName(u"shaer")
-        self.shaer.setGeometry(QRect(100, 60, 55, 15))
+        self.shaer.setGeometry(QRect(50, 60, 55, 15))
         font1 = QFont()
         font1.setFamilies([u"Vazirmatn Light"])
         self.shaer.setFont(font1)
